@@ -466,11 +466,15 @@ i:hover {
     .contenedorSection {
         display: grid;
         grid-template-columns: 100px 100px;
-        grid-template-rows: 200px;
+        grid-template-rows: 130px;
         justify-content: center;
-        grid-column-gap: 200px;
+        grid-column-gap: 180px;
         grid-row-gap: 300px;
         background-color: white;
+    }
+    .imagenNovedades {
+        width: 245px;
+        height: 245px;
     }
     .tamañoCarrousel {
         width: 100%;
