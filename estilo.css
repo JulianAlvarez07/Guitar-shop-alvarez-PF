@@ -465,16 +465,16 @@ i:hover {
 @media (max-width: 599px) {
     .contenedorSection {
         display: grid;
-        grid-template-columns: 100px 100px;
-        grid-template-rows: 130px;
+        grid-template-columns: 80px 80px;
+        grid-template-rows: 100px;
         justify-content: center;
         grid-column-gap: 180px;
         grid-row-gap: 300px;
         background-color: white;
     }
     .imagenNovedades {
-        width: 245px;
-        height: 245px;
+        width: 225px;
+        height: 225px;
     }
     .tamañoCarrousel {
         width: 100%;
@@ -516,6 +516,9 @@ i:hover {
         margin: 10px;
         width: 220px;
         height: 200px;
+    }
+    .sigma {
+        margin-bottom: 100px;
     }
 }
 
