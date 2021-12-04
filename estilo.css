@@ -457,6 +457,9 @@ i:hover {
         text-align: right;
         margin-right: 10px;
     }
+    header {
+        height: 250px;
+    }
 }
 
 @media (max-width: 599px) {
