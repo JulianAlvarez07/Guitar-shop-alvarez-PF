@@ -432,11 +432,19 @@ i:hover {
 @media (min-width: 600px) and (max-width: 1023px) {
     .contenedorSection {
         display: grid;
-        grid-template-columns: 200px 200px 200px;
-        grid-template-rows: 200px;
+        grid-template-columns: 200px 200px;
+        grid-template-rows: 300px;
         justify-content: center;
         grid-column-gap: 120px;
-        grid-row-gap: 120px;
+        grid-row-gap: 100px;
+    }
+    .imagenNovedades {
+        width: 245px;
+        height: 245px;
+    }
+    .section {
+        height: 90vh;
+        width: 100%;
     }
     .tamañoH2 {
         font-size: 30px;
@@ -459,6 +467,11 @@ i:hover {
     }
     header {
         height: 300px;
+    }
+    .imagenInicio {
+        margin: 10px;
+        width: 350px;
+        height: 250px;
     }
 }
 
