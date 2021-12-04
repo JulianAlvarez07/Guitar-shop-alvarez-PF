@@ -41,6 +41,62 @@ i:hover {
     color: #33DED6;
 }
 
+.centrado {
+    text-align: center;
+    align-items: center;
+}
+
+.textoGrande {
+    font-size: 45px;
+}
+
+.tamañoH2 {
+    font-size: 30px;
+}
+
+.tamañoPago {
+    font-size: 30px;
+}
+
+.tamañoH2:hover {
+    transform: scale(1.3);
+    transition: 1s;
+    letter-spacing: 3px;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.margenes {
+    margin-top: 5%;
+    margin-bottom: 71px;
+    margin-left: 370px;
+    margin-right: 50px;
+}
+
+.bordes {
+    border: solid 7px black;
+    border-radius: 15px;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.tituloH1 {
+    width: 100%;
+    height: 70px;
+}
+
+.negro {
+    color: black;
+}
+
+.iconosColor {
+    color: white;
+}
+
 .mainCC {
     height: 90vh;
     margin-left: 200px;
@@ -117,45 +173,6 @@ i:hover {
 
 .cajasDiv:hover {
     background-color: #33DED6;
-}
-
-.centrado {
-    text-align: center;
-    align-items: center;
-}
-
-.textoGrande {
-    font-size: 45px;
-}
-
-.tamañoH2 {
-    font-size: 30px;
-}
-
-.tamañoPago {
-    font-size: 30px;
-}
-
-.tamañoH2:hover {
-    transform: scale(1.3);
-    transition: 1s;
-    letter-spacing: 3px;
-}
-
-.negrita {
-    font-weight: bold;
-}
-
-.margenes {
-    margin-top: 5%;
-    margin-bottom: 71px;
-    margin-left: 370px;
-    margin-right: 50px;
-}
-
-.bordes {
-    border: solid 7px black;
-    border-radius: 15px;
 }
 
 .bordeContacto {
@@ -265,10 +282,6 @@ i:hover {
     height: 275px;
 }
 
-.tachado {
-    text-decoration: line-through;
-}
-
 .divTitulo {
     width: 100%;
     height: 100px;
@@ -365,19 +378,6 @@ i:hover {
 
 .pie-pagina .grupo-2 small {
     font-size: 15px;
-}
-
-.tituloH1 {
-    width: 100%;
-    height: 70px;
-}
-
-.negro {
-    color: black;
-}
-
-.iconosColor {
-    color: white;
 }
 
 .contenedorInicio {
