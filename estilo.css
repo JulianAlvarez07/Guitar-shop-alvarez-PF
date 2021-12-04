@@ -458,7 +458,7 @@ i:hover {
         margin-right: 10px;
     }
     header {
-        height: 250px;
+        height: 300px;
     }
 }
 
@@ -507,6 +507,11 @@ i:hover {
     .AlaDerechaMarcas {
         text-align: right;
         margin-right: 10px;
+    }
+    .imagenInicio {
+        margin: 10px;
+        width: 220px;
+        height: 200px;
     }
 }
 
